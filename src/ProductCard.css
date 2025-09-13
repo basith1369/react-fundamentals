@@ -1,0 +1,17 @@
+.container{
+    border: 2px solid black;
+    margin: 3px;
+    padding: 5px;
+}
+
+.title{
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+}
+
+.price{
+    font-size: 15px;
+    font-weight: italic;
+    color:red;
+}
